@@ -1,0 +1,1026 @@
+
+
+
+
+.first .navbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    padding: 12px 30px 30px;
+    flex-direction: row;
+
+}
+
+.first .navbar img{
+    width: 100px;
+}
+
+.first .navbar .link1{
+    text-decoration: none;
+    color: black;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    size: 16px;
+    font-size: 14px;
+}
+
+ /*.first .navbar .link1:hover{
+    color: rgb(120, 40, 195);
+}*/
+
+
+.first .navbar .inputi{
+    padding: 10px 15px ;
+    border: 1px solid black;
+    border-radius: 25px;
+    min-width: 450px; 
+    height: 25px;
+    background-color: rgb(244, 248, 248);
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    color: #1c1d1f;
+    align-items: center;
+}
+
+.first .navbar .inputi input{
+    min-width: 350px; 
+    height: 5px;
+    padding: 10px 15px;
+    border: 0;
+    background-color: rgb(244, 248, 248);
+}
+
+.first .navbar .link2{
+    text-decoration: none;
+    color: black;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-size: 14px;
+}
+
+.first .navbar .link3{
+    text-decoration: none;
+    color: black;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-size: 14px;
+}
+
+.first .navbar .link4 .img1{
+    width:25px;
+    height: 40px;
+}
+
+.first .navbar .link5{
+    text-decoration: none;
+    height: 25px;
+    background-color: white;
+    color: black;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    min-width: 55px ;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+
+}
+
+.first .navbar .link6{
+    text-decoration: none;
+    height: 25px;
+    background-color: black;
+    color:white;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    min-width: 55px ;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+
+}
+
+.first .navbar .link7 .img2{
+    background-color: white;
+    padding:3px 5px 10px 5px;
+    border: 1px solid black;
+    width: 30px;
+    height: 25px;
+}
+
+/*Second Section*/
+
+.second .imgcard{
+    position: relative;
+}
+
+.second .background{
+    padding: 60px 0 0 0;
+    left: 0;
+    width: 100%;
+    /*box-shadow: 1.5px 1.5px 2.5px 3px #ccc;*/
+}
+
+.second .card{
+    position: absolute;
+    top: 25%;
+    margin-left: 5%;
+    padding: 0 40px 0 40px;
+    background-color: white;
+    box-shadow: 1.5px 1.5px 2.5px 3px #ccc;
+    font-family: SuisseWorks, Georgia, Times, "times new roman", serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+}
+
+.second .card h1{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: SuisseWorks, Georgia, Times, "times new roman", serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.second .card p{
+    font-size: 20px;
+    font-family: "udemy sans", "sf pro text", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+
+/*third section*/
+
+.third .selection{
+ padding: 0 0 0 10px;
+}
+
+.third .selection h1{
+    font-family: SuisseWorks, Georgia, Times, "times new roman", serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.third .selection p{
+   font-family: "udemy sans", "sf pro text", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+   font-size: 20px;
+}
+
+.third .courses{
+    text-decoration: none;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.third .courses .course1{
+    text-decoration: none;
+    justify-content: space-between;
+    color: black;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.third .courses .course2{
+    text-decoration: none;
+    justify-content: space-between;
+    color: rgb(129, 128, 128);
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.third .courses .course3{
+    text-decoration: none;
+    justify-content: space-between;
+    color: rgb(129, 128, 128);
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.third .courses .course4{
+    text-decoration: none;
+    justify-content: space-between;
+    color: rgb(129, 128, 128);
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.third .courses .course5{
+    text-decoration: none;
+    justify-content: space-between;
+    color: rgb(129, 128, 128);
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.third .courses .course6{
+    text-decoration: none;
+    justify-content: space-between;
+    color: rgb(129, 128, 128);
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.third .courses .course7{
+    text-decoration: none;
+    justify-content: space-between;
+    color: rgb(129, 128, 128);
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.third .expansion{
+    border:1px solid rgb(222, 217, 217) ;
+    padding: 0 450px 40px 25px;
+}
+
+.third .expansion h1{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-size: 25px;
+}
+
+.third .expansion p{
+    font-family: "udemy sans", "sf pro text", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-size: 15px;
+    color:rgb(70, 64, 64);
+}
+
+
+.third .expansion .link8{
+    text-decoration: none;
+    color: black;
+    height: 25px;
+    background-color: white;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    min-width: 55px ;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: bold;
+
+}
+
+.third .selection  .expansion .python{
+    display: flex;
+    flex-direction: row;
+}
+
+.third .selection  .expansion .python .img3 p{
+   font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+   font-weight: 700;
+}
+
+.third .selection  .expansion .python .img3 h5{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: 400;
+    color: rgb(120, 120, 120);
+}
+
+.third .selection  .expansion .python .img3 .rating1{
+    color: rgb(212, 155, 12);
+    font-weight: bold;
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.third .selection  .expansion .python .img3 .icon1{
+
+}
+
+.third .selection  .expansion .python .img3 .amount1{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: bold;
+
+}
+
+.third .selection  .expansion .python .img4 p{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-weight: 700;
+ }
+ 
+ .third .selection  .expansion .python .img4 h5{
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: 400;
+     color: rgb(120, 120, 120);
+ }
+ 
+ .third .selection  .expansion .python .img4 .rating2{
+     color: rgb(212, 155, 12);
+     font-weight: bold;
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+ }
+ 
+ .third .selection  .expansion .python .img4 .icon2{
+ 
+ }
+ 
+ .third .selection  .expansion .python .img4 .amount2{
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: bold;
+ 
+ }
+
+ .third .selection  .expansion .python .img4 .link12{
+    text-decoration: none;
+    height: 25px;
+    background-color:rgb(223, 222, 116);
+    color:black;
+    padding: 5px 10px 6px 10px;
+    border:0;
+    font-size: 13px;
+    min-width: 55px ;
+    font-weight: 600;
+    margin-top: 10px;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+ }
+ 
+ .third .selection  .expansion .python .img5 p{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-weight: 700;
+ }
+ 
+ .third .selection  .expansion .python .img5 h5{
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: 400;
+     color: rgb(120, 120, 120);
+ }
+ 
+ .third .selection  .expansion .python .img5 .rating3{
+     color: rgb(212, 155, 12);
+     font-weight: bold;
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+ }
+ 
+ .third .selection  .expansion .python .img5 .icon3{
+ 
+ }
+ 
+ .third .selection  .expansion .python .img5 .amount3{
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: bold;
+ 
+ }
+
+ .third .selection  .expansion .python .img6 p{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-weight: 700;
+ }
+ 
+ .third .selection  .expansion .python .img6 h5{
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: 400;
+     color: rgb(120, 120, 120);
+ }
+ 
+ .third .selection  .expansion .python .img6 .rating4{
+     color: rgb(212, 155, 12);
+     font-weight: bold;
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+ }
+ 
+ .third .selection  .expansion .python .img6 .icon4{
+ 
+ }
+ 
+ .third .selection  .expansion .python .img6 .amount4{
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: bold;
+ 
+ }
+
+ .third .selection  .expansion .python .img6 .link13{
+    text-decoration: none;
+    height: 25px;
+    background-color:rgb(223, 222, 116);
+    color:black;
+    padding: 5px 10px 6px 10px;
+    border:0;
+    font-size: 13px;
+    min-width: 55px ;
+    font-weight: 600;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+ }
+
+
+ .third .selection  .expansion .python .img7 p{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-weight: 700;
+ }
+ 
+ .third .selection  .expansion .python .img7 h5{
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: 400;
+     color: rgb(120, 120, 120);
+ }
+ 
+ .third .selection  .expansion .python .img7 .rating5{
+     color: rgb(212, 155, 12);
+     font-weight: bold;
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+ }
+ 
+ .third .selection  .expansion .python .img7 .icon5{
+ 
+ }
+ 
+ .third .selection  .expansion .python .img7 .amount4{
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: bold;
+ 
+ }
+
+ .third .selection  .expansion .python .img7 .link14{
+    text-decoration: none;
+    height: 25px;
+    background-color:rgb(223, 222, 116);
+    color:black;
+    padding: 5px 10px 6px 10px;
+    border:0;
+    font-size: 13px;
+    min-width: 55px ;
+    font-weight: 600;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+ }
+
+/*fourth section*/
+
+.fourth .choices{
+   flex-direction: row;
+   display: flex;
+   background-color: rgb(244, 248, 248);
+   font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+   font-size: 15px;
+}
+
+.fourth .choices .choice1{
+    align-items: left;
+}
+
+.fourth .choices .choice2{
+    justify-content: center;
+}
+
+.fourth .choices .choice1{
+    justify-content: center;
+}
+
+.fourth .students .student{
+    flex-direction: row;
+    display: flex;
+}
+
+.fourth .students .student .img7 p{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-weight: 700;
+}
+
+.fourth .students .student .img7 h5{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: 400;
+     color: rgb(120, 120, 120);
+}
+
+.fourth .students .student .img7 .rating6{
+    color: rgb(212, 155, 12);
+     font-weight: bold;
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.fourth .students .student .img7 .icon6{
+
+}
+
+.fourth .students .student .img7 .amount6{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: bold;
+}
+
+.fourth .students .student .img7 .link15{
+    text-decoration: none;
+    height: 25px;
+    background-color:rgb(223, 222, 116);
+    color:black;
+    padding: 5px 10px 6px 10px;
+    border:0;
+    font-size: 13px;
+    min-width: 55px ;
+    font-weight: 600;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+}
+
+
+.fourth .students .student .img8 p{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-weight: 700;
+}
+
+.fourth .students .student .img8 h5{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: 400;
+     color: rgb(120, 120, 120);
+}
+
+.fourth .students .student .img8 .rating7{
+    color: rgb(212, 155, 12);
+     font-weight: bold;
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.fourth .students .student .img8 .icon7{
+
+}
+
+.fourth .students .student .img8 .amount7{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: bold;
+}
+
+.fourth .students .student .img8 .link16{
+    text-decoration: none;
+    height: 25px;
+    background-color:rgb(223, 222, 116);
+    color:black;
+    padding: 5px 10px 6px 10px;
+    border:0;
+    font-size: 13px;
+    min-width: 55px ;
+    font-weight: 600;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+}
+
+
+.fourth .students .student .img9 p{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-weight: 700;
+}
+
+.fourth .students .student .img9 h5{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: 400;
+     color: rgb(120, 120, 120);
+}
+
+.fourth .students .student .img9 .rating8{
+    color: rgb(212, 155, 12);
+     font-weight: bold;
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.fourth .students .student .img9.icon8{
+
+}
+
+.fourth .students .student .img9 .amount8{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: bold;
+}
+
+.fourth .students .student .img9 .link17{
+    text-decoration: none;
+    height: 25px;
+    background-color:rgb(223, 222, 116);
+    color:black;
+    padding: 5px 10px 6px 10px;
+    border:0;
+    font-size: 13px;
+    min-width: 55px ;
+    font-weight: 600;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+}
+
+
+.fourth .students .student .img10 p{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-weight: 700;
+}
+
+.fourth .students .student .img10 h5{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: 400;
+     color: rgb(120, 120, 120);
+}
+
+.fourth .students .student .img10 .rating9{
+    color: rgb(212, 155, 12);
+     font-weight: bold;
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.fourth .students .student .img10 .icon9{
+
+}
+
+.fourth .students .student .img10 .amount9{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: bold;
+}
+
+.fourth .students .student .img10 .link18{
+    text-decoration: none;
+    height: 25px;
+    background-color:rgb(223, 222, 116);
+    color:black;
+    padding: 5px 10px 6px 10px;
+    border:0;
+    font-size: 13px;
+    min-width: 55px ;
+    font-weight: 600;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+}
+
+.fourth .students .student .img11 p{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    font-weight: 700;
+}
+
+.fourth .students .student .img11 h5{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+     font-weight: 400;
+     color: rgb(120, 120, 120);
+}
+
+.fourth .students .student .img11 .rating10{
+    color: rgb(212, 155, 12);
+     font-weight: bold;
+     font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.fourth .students .student .img11 .icon10{
+
+}
+
+.fourth .students .student .img11 .amount10{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: bold;
+}
+
+.fourth .students .student .img11 .link19{
+    text-decoration: none;
+    height: 25px;
+    background-color:rgb(223, 222, 116);
+    color:black;
+    padding: 5px 10px 6px 10px;
+    border:0;
+    font-size: 13px;
+    min-width: 55px ;
+    font-weight: 600;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+}
+
+/*fifth section*/
+.fifth{
+    background-color:  rgb(244, 248, 248);
+}
+
+.fifth .topics h2{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    padding: 50px 0 0 30px;
+}
+
+.fifth .topics h3{
+    font-family:"udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    flex-direction: row;
+    display: flex;
+}
+
+.fifth .topics a{
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: bold;
+    color: rgb(99, 11, 181);
+    padding: 10px 50px 0 0;
+}
+
+.fifth .topics .topic0{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 150px 0 30px;
+}
+
+.fifth .topics .topic1{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px 0 30px;
+}
+
+.fifth .topics .p1{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding:0 50px 0 25px;
+    color: rgb(121, 121, 121);
+}
+
+
+.fifth .topics .topic2{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding:0 40px 0 30px;
+}
+
+.fifth .topics .p2{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding:0 50px 0 30px;
+    color: rgb(121, 121, 121);
+}
+
+.fifth .topics .topic3{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding:0 40px 0 30px;
+}
+
+.fifth .topics .p3{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    padding:0 50px 0 30px;
+    color: rgb(121, 121, 121);
+}
+
+.fifth .link20{
+    text-decoration: none;
+    height: 25px;
+    background-color: white;
+    color: black;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-weight: bold;
+    min-width: 55px ;
+    margin-left: 30px;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+
+}
+
+
+/*Sixth section*/
+
+.sixth .team .teamm{
+    padding: 50px 0 0 400px;
+}
+
+.sixth .team .teamm h2{
+    font-family: SuisseWorks, Georgia, Times, "times new roman", serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    display: flex;
+    margin: 0;
+}
+
+.sixth .team .teamm p{
+    font-family: "udemy sans", "sf pro text", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+    font-weight: 500;
+    padding: 0 150px 0 0;
+}
+
+.sixth .team .team1{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    width: 200px;
+    padding: 0 0 50px 400px;
+    justify-content: space-between;
+   
+}
+
+.sixth .team .business{
+    display: flex;
+    flex-direction: row;
+}
+
+.sixth .team .business .image img{
+    width: 400px;
+    height: 400px;
+    padding: 50px 0 0 200px;
+}
+
+.sixth .team .business .sub{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0 0 150px;
+    width: 400px;
+}
+
+.sixth .team .business .sub  .subb .sub1{
+    flex-direction: row;
+    display: flex;
+}
+
+.sixth .team .business .sub .subb .sub1 img{
+    width: 80px;
+}
+
+.sixth .team .business .sub .subb .sub1 p{
+    color: rgb(116, 31, 196);
+}
+
+.sixth .team .business .sub .subb h1{
+    font-size: 30px;
+    letter-spacing: 0;
+    font-family: SuisseWorks, Georgia, Times, "times new roman", serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+}
+
+.sixth .team .business .sub .subb .lists .list{
+    font-size: 30px;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+    
+}
+
+.sixth .team .business .sub .links .link9{
+    text-decoration: none;
+    height: 25px;
+    background-color: black;
+    color:white;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-weight: bold;
+    min-width: 55px ;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+ }
+
+ .sixth .team .business .sub .links .link10{
+    text-decoration: none;
+    height: 25px;
+    background-color: white;
+    color: black;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    min-width: 55px ;
+    font-weight: bold;
+    margin-top: 10px;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+
+ }
+
+ .sixth .team .business1 .instructor{
+    display: flex;
+    flex-direction: row;
+}
+
+.sixth .team .business1 .instructor .image1 img{
+    width: 400px;
+    height: 400px;
+    padding: 100px 0 50px 200px;
+}
+
+/*.sixth .team .business1 .sub{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0 0 150px;
+    width: 400px;
+}*/
+
+/*.sixth .team .business .sub .sub1{
+    flex-direction: row;
+    display: flex;
+}
+
+.sixth .team .business .sub .sub1 img{
+    width: 95px;
+    padding: 0 250px 0 0;
+}*/
+/*
+.sixth .team .business .sub .sub1 p{
+    font-size: 50px;
+}*/
+
+.sixth .team .business1 .instructor .instructor1{
+    padding: 200px 100px 0 100px;
+    flex-direction: column;
+}
+
+.sixth .team .business1 .instructor h1{
+    font-size: 30px;
+    letter-spacing: 0;
+    font-family: SuisseWorks, Georgia, Times, "times new roman", serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+}
+
+.sixth .team .business1 .instructor p{
+    font-size: 20px;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+ 
+}
+
+.sixth .team .business1 .instructor .links1 .link11{
+    text-decoration: none;
+    height: 25px;
+    background-color: black;
+    color:white;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-weight: bold;
+    min-width: 55px ;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+ }
+
+
+
+ /*seventh section*/
+
+ .seventh .footer{
+    background-color: rgb(26, 25, 25);
+    width: 100vw;
+    height: fit-content;
+    color: white;
+    text-decoration: none;
+    margin-top: 5px;
+    padding: 20px 3px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+    font-family: "udemy sans", "sf pro text", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+}
+
+.seventh .footer .footer-text{
+    margin-top: 2px;
+}
+
+.seventh .footer .footer1{
+   flex-direction: column;
+   display: flex;
+   align-self: flex-start;
+}
+
+.seventh .footer .footer1 img{
+    width: 100px;
+    padding: 100px 0 0 0;
+}
+
+.seventh .footer .footer2{
+    flex-direction: column;
+    display: flex;
+}
+
+.seventh .footer .footer3{
+    flex-direction: column;
+    display: flex;
+}
+
+/*
+.sixth .teams .sub{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem 4rem;
+    border-bottom: 0.6rem solid #111;
+    width: 40%;
+    float: left;
+}
+
+.sixth .teams .sub p{
+    padding: 0 0 0 0;
+}
+
+
+.sixth .teams .sub h1{
+   font-size: 35px;
+   letter-spacing: 1px;
+   padding-bottom: 10px;
+   font-family: SuisseWorks, Georgia, Times, "times new roman", serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";;
+
+
+}
+
+.sixth .teams .sub p{
+    font-size: 25px;
+ 
+ }
+
+ .sixth .teams .sub .link9{
+    text-decoration: none;
+    height: 25px;
+    background-color: black;
+    color:white;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-weight: bold;
+    min-width: 55px ;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+ }
+
+ .sixth .teams .sub .link10{
+    text-decoration: none;
+    height: 25px;
+    background-color: white;
+    color: black;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    min-width: 55px ;
+    font-weight: bold;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+
+ }
+
+ .sixth .instructor .instructor1 .link11{
+    text-decoration: none;
+    height: 25px;
+    background-color: black;
+    color:white;
+    padding: 6px 10px 6px 10px;
+    border: 1px solid black;
+    font-size: 15px;
+    font-weight: bold;
+    min-width: 55px ;
+    font-family: "udemy sans", -apple-system, BlinkMacSystemFont, Roboto, "segoe ui", Helvetica, Arial, sans-serif, "apple color emoji", "segoe ui emoji", "segoe ui symbol";
+ }
+
+.sixth .team .image{
+    width: 100px;
+    height: 100px;
+}*/
